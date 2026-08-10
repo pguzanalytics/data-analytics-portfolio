@@ -33,9 +33,6 @@ The project includes queries to:
 - GROUP BY / HAVING
 - CASE
 - Date Functions
-- Ranking Functions
-- Filtering and Sorting
-
 ---
 
 ## 💡 Key Concepts
@@ -53,4 +50,5 @@ The project demonstrates the ability to:
 
 ## 📂 Project Files
 
-SQL queries and detailed solutions will be added to this repository.
+- [`employee-analysis.sql`](employee-analysis.sql) — Employee, salary, department and management analysis using JOINs, CTEs, subqueries and Window Functions.
+- [`course-database.sql`](course-database.sql) — Course management database creation, relationships, sample data and duplicate detection.
