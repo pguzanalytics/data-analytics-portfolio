@@ -53,4 +53,5 @@ The project demonstrates the ability to:
 
 ## 📁 Project Files
 
-Python notebooks and datasets will be added to this repository.
+- [ikea-analysis.py](ikea-analysis.py) — Python code used for data cleaning, exploratory analysis, preprocessing and visualization.
+- [images](images/) — Visualizations generated during the analysis.
