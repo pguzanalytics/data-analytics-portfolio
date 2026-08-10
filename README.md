@@ -1,85 +1,35 @@
-# 👋 Гузь Павло
+# 👋 Павло Гузь
 
-### Junior Data / BI Analyst
+## Junior Data / BI Analyst
 
 Маю практичний досвід роботи з Power BI та 8-річний управлінський досвід у Domino’s Pizza Ukraine, KFC і Catering Service.
 
-Працював із фінансовими та операційними показниками, звітністю й аналізом ефективності бізнесу. Використовую Power BI, SQL, Python та Excel для аналізу й візуалізації даних.
+Працював з фінансовими та операційними показниками, звітністю й аналізом ефективності бізнесу.
+
+Використовую **Power BI, SQL, Python та Excel** для аналізу даних, візуалізації та пошуку бізнес-інсайтів.
 
 ---
 
-## 🛠️ Інструменти та навички
+# 📊 Portfolio Projects
 
-### 📊 Power BI
-Power Query • DAX • Data Modeling • Relationships  
-Dashboards • RLS • Drillthrough
+## 🧸 Retail Sales & Inventory Analysis | Power BI
 
-### 🗄️ SQL
-JOIN • CTE • Subqueries  
-Window Functions • GROUP BY • HAVING • UNION
+Interactive Power BI dashboard for analyzing retail sales, profitability, product performance and inventory across multiple stores and cities.
 
-### 🐍 Python
-Pandas • NumPy • Matplotlib • Seaborn  
-Data Cleaning • EDA • Grouping • Statistical Analysis
+**Key areas:** Sales Analysis • Profitability • Inventory • DAX • Data Modeling
 
-### 📗 Excel
-Pivot Tables • Power Query  
-XLOOKUP • INDEX/MATCH  
-SUMIFS • IF/IFS • Dashboards
+![Sales Dashboard](projects/power-bi-retail-sales/images/sales-overview.png)
+
+### 🔗 [View Project Details](projects/power-bi-retail-sales)
 
 ---
 
-# 📁 Проєкти
+# 🛠️ Technical Skills
 
-## 📊 Power BI | Retail Sales & Inventory Analysis
+**Power BI:** Power Query • DAX • Data Modeling • RLS • Drillthrough • Tooltips
 
-Дашборд для аналізу продажів, прибутковості, сезонності та складських запасів мережі магазинів.
+**SQL:** JOIN • CTE • Subqueries • Window Functions • Aggregations
 
-**Інструменти:** Power BI • DAX • Power Query • Data Modeling • RLS
+**Python:** Pandas • NumPy • Matplotlib • Seaborn • EDA
 
-🔗 Детальніше про проєкт — буде додано
-
----
-
-## 🗄️ SQL | Employee & Course Database Analysis
-
-Аналіз даних співробітників і зарплат та проєктування реляційної бази даних для управління курсами.
-
-**Інструменти:** MySQL • JOIN • CTE • Subqueries • GROUP BY • HAVING
-
-🔗 Детальніше про проєкт — буде додано
-
----
-
-## 🐍 Python | IKEA Furniture Data Analysis
-
-Очищення, дослідницький аналіз і візуалізація даних про товари IKEA.
-
-**Інструменти:** Python • Pandas • NumPy • Matplotlib • Seaborn • EDA
-
-🔗 Детальніше про проєкт — буде додано
-
----
-
-## 📈 Excel | Data Analysis
-
-Аналіз даних за допомогою формул, зведених таблиць, Power Query та візуалізацій.
-
-**Інструменти:** Excel • Pivot Tables • Power Query • XLOOKUP • INDEX/MATCH
-
-🔗 Детальніше про проєкт — буде додано
-
----
-
-## 🎓 Освіта
-
-**DAN.IT Education** — Data Analytics  
-**НМУ ім. О. Богомольця** — Лікарська справа
-
----
-
-## 📫 Контакти
-
-📍 Київ, Україна  
-📧 p.guz.analytics@gmail.com  
-💻 GitHub: **pguzanalytics**
+**Excel:** Pivot Tables • Power Query • INDEX/MATCH • XLOOKUP
