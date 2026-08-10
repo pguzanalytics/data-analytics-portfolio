@@ -1,85 +1,78 @@
 # 📊 Excel | Data Analysis & Dashboard
 
----
-
 ## 📌 Project Overview
 
-Excel project focused on data analysis, business reporting and dashboard development.
+This section contains two Excel projects demonstrating practical skills in data analysis, reporting, data visualization and working with business data.
 
-The project includes sales and profit analysis, year-over-year comparisons, employee data analysis, formula-based calculations and interactive data visualization.
-
----
-
-## 🎯 Analysis Tasks
-
-The project includes:
-
-- Analyze sales and profit performance
-- Calculate Year-over-Year (YoY) growth
-- Compare current and previous year results
-- Analyze sales by category, segment and location
-- Identify Top and Bottom performing states
-- Analyze quarterly sales and pricing trends
-- Work with employee and HR datasets
-- Calculate employee age and work experience
-- Analyze employee status and termination data
-- Retrieve and combine data from reference tables
+The projects include an interactive sales dashboard and employee data analysis using Excel formulas and analytical tools.
 
 ---
 
-## 🛠️ Excel Skills Used
+## 📈 Project 1 — Sales Dashboard
 
-- Pivot Tables
-- Pivot Charts
-- Excel Dashboards
+Interactive Excel dashboard created to analyze sales performance and provide a clear overview of key business metrics.
+
+### Analysis includes:
+
+- Sales and profit KPIs
+- Year-over-year growth analysis
+- Sales analysis by category and customer segment
+- Top 10 states by total sales
+- Sales and price trends over time
+- Interactive filtering using slicers
+- Pivot Tables and Pivot Charts
+
+### Dashboard
+
+![Sales Dashboard](images/sales-dashboard.png)
+
+### 📁 Excel File
+
+[Open Sales Dashboard](sales-dashboard.xlsx)
+
+---
+
+## 👥 Project 2 — Employee Analysis
+
+Excel-based employee data analysis focused on transforming employee records and calculating HR-related metrics.
+
+### Analysis includes:
+
+- Employee age calculation
+- Retirement age identification
+- Employee tenure calculation
+- Department lookup
+- Analysis of active and terminated employees
+- Termination reason analysis
+- Sorting and filtering employee records
+- Summary metrics calculated using formulas
+
+### Employee Analysis
+
+![Employee Analysis](images/employee-analysis.png)
+
+### 📁 Excel File
+
+[Open Employee Analysis](employee-analysis.xlsx)
+
+---
+
+## 🛠 Tools & Skills
+
+- Microsoft Excel
+- Pivot Tables & Pivot Charts
 - Slicers
 - INDEX / MATCH
-- VLOOKUP
-- IF / IFS / IFERROR
+- VLOOKUP / XLOOKUP
+- IF / IFERROR
 - COUNTIF / COUNTIFS
 - SUMIF / SUMIFS
 - SUMPRODUCT
 - Text Functions
 - Date Functions
 - Conditional Formatting
-- Data Validation
 - Sorting and Filtering
-- Charts and Data Visualization
-
----
-
-## 📈 Dashboard
-
-The interactive dashboard provides an overview of sales and profitability performance.
-
-Key metrics include:
-
-- Sales Latest Year
-- Sales Previous Year
-- Sales Growth vs Previous Year
-- Profit Latest Year
-- Profit Previous Year
-- Profit Growth vs Previous Year
-- Quarterly Sales Trends
-- Top / Bottom States by Total Sales
-
----
-
-## 💡 Key Concepts
-
-The project demonstrates the ability to:
-
-- Transform raw data into analytical reports
-- Build interactive Excel dashboards
-- Calculate and compare business KPIs
-- Analyze Year-over-Year performance
-- Work with lookup and conditional formulas
-- Analyze employee and HR data
-- Build Pivot Tables and Pivot Charts
-- Present analytical results through visualizations
-
----
-
-## 📁 Project Files
-
-Excel workbook and dashboard screenshots are available in this project.
+- Data Cleaning & Transformation
+- Data Visualization
+- Dashboard Development
+- Business Data Analysis
