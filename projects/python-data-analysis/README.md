@@ -58,6 +58,15 @@ The project demonstrates the ability to:
 
 ---
 
+## 🔎 Key Findings
+
+- Wardrobes, sofas & armchairs and beds are among the most expensive product categories.
+- IKEA of Sweden is the most represented designer in the dataset.
+- Product width shows the strongest relationship with price among the analyzed dimensions.
+- Price distribution is right-skewed, with most products concentrated in lower and middle price ranges.
+
+---
+
 ## 📁 Project Files
 
 - [ikea-analysis.py](ikea-analysis.py) — Python code used for data cleaning, exploratory data analysis and visualization.
