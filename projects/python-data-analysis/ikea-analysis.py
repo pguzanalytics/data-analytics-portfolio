@@ -390,9 +390,7 @@ dimensions_price = df[
     ]
 ]
 
-correlation_matrix = (
-    dimensions_price.corr()
-)
+correlation_matrix = dimensions_price.corr()
 
 print("\nCorrelation Matrix:")
 print(correlation_matrix)
