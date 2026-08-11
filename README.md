@@ -58,6 +58,6 @@ Two Excel projects demonstrating business data analysis, dashboard development a
 
 **SQL:** JOINs • CTEs • Subqueries • Window Functions • Aggregations
 
-**Python:** Pandas • NumPy • Matplotlib • Seaborn • Exploratory Data Analysis (EDA)
+**Python:** Pandas • Data Cleaning • GroupBy & Aggregations • Matplotlib • Seaborn • Correlation Analysis • EDA
 
 **Excel:** Pivot Tables • Pivot Charts • Power Query • INDEX/MATCH • XLOOKUP • SUMIFS • SUMPRODUCT • Data Visualization
