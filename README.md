@@ -34,9 +34,9 @@ SQL project focused on employee, salary and department data analysis using advan
 
 ## 🐍 IKEA Product Analysis | Python
 
-Exploratory data analysis of the IKEA product dataset using Python to investigate product categories, prices, designers and relationships between product dimensions and price.
+Exploratory data analysis of the IKEA furniture dataset focused on product categories, pricing, designers and relationships between product dimensions and price.
 
-**Key areas:** Pandas • Data Cleaning • EDA • GroupBy • Correlation Analysis • Matplotlib • Seaborn
+**Key areas:** Pandas • Data Cleaning • EDA • GroupBy & Aggregations • Correlation Analysis • Matplotlib • Seaborn
 
 ### 🔗 [View Project Details](projects/python-data-analysis)
 
