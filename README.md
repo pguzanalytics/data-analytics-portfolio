@@ -56,7 +56,7 @@ Two Excel projects demonstrating business data analysis, dashboard development a
 
 **Power BI:** Power Query • DAX • Data Modeling • RLS • Drillthrough • Tooltips
 
-**SQL:** JOINs • CTEs • Subqueries • Window Functions • Aggregations
+**SQL:** JOINs • CTEs • Subqueries • Window Functions • Aggregations • Ranking
 
 **Python:** Pandas • Data Cleaning • EDA • GroupBy & Aggregations • Correlation Analysis • Matplotlib • Seaborn
 
