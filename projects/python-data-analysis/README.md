@@ -1,3 +1,5 @@
+# 🐍 Python | IKEA Furniture Data Analysis
+
 ## 📌 Project Overview
 
 Exploratory data analysis of the IKEA furniture dataset using Python.
@@ -58,7 +60,7 @@ The project demonstrates the ability to:
 
 ## 📁 Project Files
 
-- [ikea-analysis.py](ikea-analysis.py) — Python code used for data cleaning, exploratory analysis, preprocessing and visualization.
+- [ikea-analysis.py](ikea-analysis.py) — Python code used for data cleaning, exploratory data analysis and visualization.
 - [images](images/) — Visualizations generated during the analysis.
 
 ---
@@ -70,6 +72,12 @@ The project demonstrates the ability to:
 ![Average Price by Category](images/average-price-by-category.png)
 
 ### Top 10 Designers
+
+![Top 10 Designers](images/top-10-designers.png)
+
+### Correlation Matrix
+
+![Correlation Matrix](images/correlation-matrix.png)
 
 ![Top 10 Designers](images/top-10-designers.png)
 
