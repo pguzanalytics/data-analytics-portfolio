@@ -113,7 +113,6 @@ df["old_price"] = df["old_price"].fillna(
 
 # Fill missing dimensions
 # using median values within each category
-
 df["depth"] = df["depth"].fillna(
     df.groupby("category")["depth"]
     .transform("median")
