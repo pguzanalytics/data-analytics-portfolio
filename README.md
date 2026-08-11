@@ -2,7 +2,7 @@
 
 ## Junior Data / BI Analyst
 
-Маю практичний досвід роботи з Power BI та 8-річний управлінський досвід у Domino’s Pizza Ukraine, KFC і Catering Service.
+Маю практичні навички роботи з Power BI та 8-річний управлінський досвід у Domino’s Pizza Ukraine, KFC і Catering Service.
 
 Працював з фінансовими та операційними показниками, звітністю й аналізом ефективності бізнесу.
 
