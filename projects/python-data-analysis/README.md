@@ -29,14 +29,14 @@ The project includes:
 
 - Python
 - Pandas
-- NumPy
 - Matplotlib
 - Seaborn
 - Data Cleaning
+- Missing Values Handling
 - Data Transformation
-- GroupBy
-- Pivot Tables
+- GroupBy & Aggregations
 - Exploratory Data Analysis (EDA)
+- Correlation Analysis
 
 ---
 
