@@ -1,10 +1,10 @@
-# 🐍 Python | Data Analysis
-
 ## 📌 Project Overview
 
-Python data analysis project focused on exploring, cleaning, transforming and analyzing datasets using Pandas.
+Exploratory data analysis of the IKEA furniture dataset using Python.
 
-The project demonstrates practical skills in data manipulation, aggregation, exploratory data analysis and visualization.
+The project focuses on data cleaning, product category analysis, price analysis, designer analysis and exploring relationships between furniture dimensions and price.
+
+The analysis was performed using Pandas, Matplotlib and Seaborn.
 
 ---
 
