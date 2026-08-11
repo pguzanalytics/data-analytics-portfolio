@@ -78,9 +78,3 @@ The project demonstrates the ability to:
 ### Correlation Matrix
 
 ![Correlation Matrix](images/correlation-matrix.png)
-
-![Top 10 Designers](images/top-10-designers.png)
-
-### Correlation Matrix
-
-![Correlation Matrix](images/correlation-matrix.png)
