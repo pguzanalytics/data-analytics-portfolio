@@ -44,13 +44,15 @@ The project includes:
 
 The project demonstrates the ability to:
 
-- Work with datasets using Pandas
+- Load and explore datasets using Pandas
 - Clean and prepare data for analysis
-- Filter and transform data
-- Aggregate and summarize data
-- Explore datasets and identify patterns
+- Handle missing values and duplicate records
+- Group and aggregate data by product categories
+- Analyze product prices and designer activity
+- Explore relationships between product dimensions and price
+- Perform correlation analysis
 - Create visualizations using Matplotlib and Seaborn
-- Draw conclusions based on data analysis
+- Summarize and interpret analytical results
 
 ---
 
