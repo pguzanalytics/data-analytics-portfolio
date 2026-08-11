@@ -55,3 +55,19 @@ The project demonstrates the ability to:
 
 - [ikea-analysis.py](ikea-analysis.py) — Python code used for data cleaning, exploratory analysis, preprocessing and visualization.
 - [images](images/) — Visualizations generated during the analysis.
+
+---
+
+## 📊 Visualizations
+
+### Average Price by Category
+
+![Average Price by Category](images/average-price-by-category.png)
+
+### Top 10 Designers
+
+![Top 10 Designers](images/top-10-designers.png)
+
+### Correlation Matrix
+
+![Correlation Matrix](images/correlation-matrix.png)
