@@ -12,12 +12,15 @@ The analysis was performed using Pandas, Matplotlib and Seaborn.
 
 The project includes:
 
-- Data loading and exploration
+- Data loading and initial exploration
 - Data cleaning and preprocessing
-- Filtering and transforming data
+- Handling missing values and duplicates
+- Product category analysis
+- Price analysis
+- Designer analysis
 - Grouping and aggregation
-- Pivot table analysis
 - Exploratory Data Analysis (EDA)
+- Correlation analysis
 - Data visualization
 
 ---
